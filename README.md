@@ -2,3 +2,4 @@
 * Migrated from SVN on July 31, 2017
 * Coding by Sun Pengcheng
 * Owner is Fan Yingfeng
+* Core is ShopNC
